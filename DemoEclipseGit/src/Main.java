@@ -10,6 +10,7 @@ public class Main {
 
 	private static void displayGreeting() {
 		System.out.println("This is the names of the Schaden Colleagues");
-		System.out.println("We love Schaden"); 
+		System.out.println("We love Schaden");
+		System.out.println("Wow Pushed");
 	}
 }
